@@ -1,5 +1,5 @@
 # BedwarsBro
-Deconpiled version of NOT helpful mod for game on Mineblaze, Dexland, Masedworld, Cheatmine by DimChig...
+Decompiled version of NOT helpful mod for game on Mineblaze, Dexland, Masedworld, Cheatmine by DimChig...
 # About
 Mod that includes in it some helpful functions, like autowaterdrop, minimap, beds esp, etc.
 # Uh oh
